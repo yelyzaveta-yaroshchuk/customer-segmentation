@@ -2,6 +2,8 @@
 
 The customer analysis and customer segmentation were made in order to understand who are our "alive", active users and who are ready to buy. The next step was customer segmentation and labeling our customers. In the end, I tried to create a model to predict who is who based on the first-day data.
 
+The dataset contains 11436 users and information about session in the game for the first 7 days from registration.
+
 Let's think about how we can understand whether the customer is highly involved in the game. First of all, he spends a lot of time in the game. But let's dive deeper.
 
 Let's analyze how time spends in the game changes with days.
